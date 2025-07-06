@@ -1,7 +1,7 @@
 # User Flow
 
 ## 1. Login
-- User attempts to log in using **username** and **password**.
+- User attempts to log in using **username/phonenumber** and **password**.
 - After successful login:
   - Check if the user is **verified**.
     - If **verified**: Redirect to the **Dashboard**.
